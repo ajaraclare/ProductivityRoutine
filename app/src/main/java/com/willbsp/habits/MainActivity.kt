@@ -55,6 +55,9 @@ class MainActivity : ComponentActivity() {
         notificationManager.createNotificationChannel(reminderChannel)
 
         setContent {
+
+            setContentView(R.layout.activity_main)
+
             HabitsTheme {
                 Surface(color = MaterialTheme.colorScheme.background) {
                     val windowSize = calculateWindowSizeClass(activity = this)

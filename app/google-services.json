@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79398412257",
+    "project_id": "routineapporiginal",
+    "storage_bucket": "routineapporiginal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79398412257:android:f68dd81cf13c16fe2cfca0",
+        "android_client_info": {
+          "package_name": "com.willbsp.habits.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqXqA_fWlrYZ1sq7S-o4Vl-MI5Edkh0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
